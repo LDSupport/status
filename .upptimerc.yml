@@ -5,16 +5,28 @@ repo: status # The name of this repository
 sites:
   - name: Identity Server
     url: https://auth.ldsupport.nl/debug/healthz
+    type: globalping
+    location: amsterdam
   - name: CoachYourself.online
     url: https://app.coachyourself.online
+    type: globalping
+    location: amsterdam
   - name: Dynamic Managing (Old)
     url: https://dynamicmanaging.com
+    type: globalping
+    location: amsterdam
   - name: Lite - Dynamic Managing
     url: https://lite.dynamicmanaging.com
+    type: globalping
+    location: amsterdam
   - name: Analyzer.global
     url: https://ld.analyzer.global
+    type: globalping
+    location: amsterdam
   - name: Chimera
     url: https://chimera.ldscc.com
+    type: globalping
+    location: amsterdam
 
 assignees:
   - VilleFTW
