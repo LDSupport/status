@@ -6,27 +6,27 @@ sites:
   - name: Identity Server
     url: https://auth.ldsupport.nl/debug/healthz
     type: globalping
-    location: amsterdam
+    location: netherlands
   - name: CoachYourself.online
     url: https://app.coachyourself.online
     type: globalping
-    location: amsterdam
+    location: netherlands
   - name: Dynamic Managing (Old)
     url: https://dynamicmanaging.com
     type: globalping
-    location: amsterdam
+    location: netherlands
   - name: Lite - Dynamic Managing
     url: https://lite.dynamicmanaging.com
     type: globalping
-    location: amsterdam
+    location: netherlands
   - name: Analyzer.global
     url: https://ld.analyzer.global
     type: globalping
-    location: amsterdam
+    location: netherlands
   - name: Chimera
     url: https://chimera.ldscc.com
     type: globalping
-    location: amsterdam
+    location: netherlands
 
 assignees:
   - VilleFTW
