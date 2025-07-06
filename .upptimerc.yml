@@ -16,6 +16,10 @@ sites:
   - name: Chimera
     url: https://chimera.ldscc.com
 
+assignees:
+  - VilleFTW
+  - AlbertvanZijl
+
 status-website:
   theme: light
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
