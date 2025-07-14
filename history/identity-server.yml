@@ -1,7 +1,7 @@
 url: https://auth.ldsupport.nl/debug/healthz
 status: up
 code: 200
-responseTime: 653
-lastUpdated: 2025-07-13T23:04:30.544Z
+responseTime: 383
+lastUpdated: 2025-07-14T23:04:32.490Z
 startTime: 2025-07-06T16:22:05.794Z
 generator: Upptime <https://github.com/upptime/upptime>
